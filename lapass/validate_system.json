@@ -10,7 +10,7 @@
   "send_alert_title": "",
   "send_alert_description": "docker image ssl",
   "digital_signature_alert_title": "docker image ssl123",
-  "digital_signature_alert_description": "f"
+  "digital_signature_alert_description": ""
 }
 
 
