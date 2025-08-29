@@ -5,7 +5,7 @@
   "send_rtgs_arsv_enable": "1",
   "send_cbs_rtgs_008_enable": "1",
   "send_cbs_ach_008_enable": "1",
-  "disable_function_validate_isactive": "1",
+  "disable_function_validate_isactive": "0",
   "enable_ib": "1",
   "send_alert_title": "",
   "send_alert_description": "docker image ssl",
