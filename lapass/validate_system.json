@@ -6,7 +6,7 @@
   "send_cbs_rtgs_008_enable": "1",
   "send_cbs_ach_008_enable": "1",
   "disable_function_validate_expiry": "0",
-  "enable_ib": "1",
+  "enable_ib": "0",
   "send_alert_title": "",
   "send_alert_description": "",
   "digital_signature_alert_title": "",
