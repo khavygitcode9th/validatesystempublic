@@ -8,8 +8,8 @@
   "disable_function_validate_expiry": "0",
   "enable_ib": "0",
   "send_alert_title": "",
-  "send_alert_description": "",
-  "digital_signature_alert_title": "",
+  "send_alert_description": "docker image ssl",
+  "digital_signature_alert_title": "docker image ssl",
   "digital_signature_alert_description": ""
 }
 
