@@ -9,8 +9,8 @@
   "enable_ib": "1",
   "send_alert_title": "",
   "send_alert_description": "docker image ssl",
-  "digital_signature_alert_title": "docker image ssl",
-  "digital_signature_alert_description": "123fdfef"
+  "digital_signature_alert_title": "docker image ssl123",
+  "digital_signature_alert_description": "f"
 }
 
 
